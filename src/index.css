@@ -1,0 +1,36 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: sans-serif;
+  background-image: url('img/shapes/shape.svg');
+  background-repeat: no-repeat;
+  background-position: -500px -50px;
+  background-size: 40%;
+
+}
+
+@media (max-width: 480px) {
+
+  body{
+    background-image: url('img/shapes/shape-mobile.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    
+  }
+
+}
+
+@media (max-width: 768px) {
+  body{
+    background-image: url('img/shapes/shape-mobile.svg');
+    background-repeat: no-repeat;
+    background-position: 50% -3%;
+    background-size: 120%;
+    
+  }
+}

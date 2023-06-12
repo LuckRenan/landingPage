@@ -1,0 +1,45 @@
+[
+    {
+      "name": "Bepantol Baby Creme Antiassaduras 60g",
+      "image": "https://clinicapamelacyafo.lucasdutra.com/wp-content/uploads/2023/06/produto-0001.png",
+      "price": "19,99",
+      "price2":"25,07",
+      "link":"https://www.google.com/search?q=Bepantol+Baby&oq=Bepantol+Baby&aqs=chrome..69i57j0i433i512j0i131i433i512j0i512l3j69i60j69i61.743j0j7&sourceid=chrome&ie=UTF-8"
+    },
+    {
+      "name": "Avon protetor solar care sun FPS 50",
+      "image": "https://clinicapamelacyafo.lucasdutra.com/wp-content/uploads/2023/06/produto-0002.png",
+      "price": "24,99",
+      "price2":"38,07",
+      "link":"https://www.google.com/search?q=Avon+protetor+solar+care+sun+FPS+50&oq=Avon+protetor+solar+care+sun+FPS+50&aqs=chrome..69i57j69i60j69i61.1157j0j9&sourceid=chrome&ie=UTF-8"
+    },
+    {
+      "name": "Fio Dental Colgate Regular 50m",
+      "image": "https://clinicapamelacyafo.lucasdutra.com/wp-content/uploads/2023/06/produto-0003.png",
+      "price": "14,99",
+      "price2":"35,99",
+      "link":"https://www.google.com/search?q=fio+dental+colgate&oq=fio&aqs=chrome.0.69i59l2j69i57j69i59j69i64j69i60l2j69i61.1094j0j9&sourceid=chrome&ie=UTF-8"
+      
+    },
+    {
+      "name": "Conjunto de Sabonetes em Barra Tododia",
+      "image": "https://clinicapamelacyafo.lucasdutra.com/wp-content/uploads/2023/06/produto-0004.png",
+      "price": "29,99",
+      "price2":"35,40",
+      "link":"https://www.google.com/search?q=conjunto+sabonete+natura&oq=conjunto+sabo&aqs=chrome.0.0i512l2j69i57j0i512l2j69i60j69i61l2.7934j0j9&sourceid=chrome&ie=UTF-8"
+    },
+    {
+      "name": "Lisador Dipirona 500mg + Adifenina10mg",
+      "image": "https://clinicapamelacyafo.lucasdutra.com/wp-content/uploads/2023/06/produto-0005.png",
+      "price": "9,99",
+      "price2":"11,07",
+      "link":"https://www.google.com/search?q=Lisador+Dipirona+500mg+%2B+Adifenina10mg&sxsrf=APwXEdeWHyZXTZFw1FgBpBLMxXu5_JvVXw%3A1686513955444&ei=IymGZKfnGv_c5OUPpJ6E8AE&ved=0ahUKEwjnhOSJgrz_AhV_LrkGHSQPAR4Q4dUDCA8&uact=5&oq=Lisador+Dipirona+500mg+%2B+Adifenina10mg&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIHCCEQoAEQCkoECEEYAFAAWABg0wNoAHABeACAAdkBiAHZAZIBAzItMZgBAKABAqABAcABAQ&sclient=gws-wiz-serp"
+    },
+    {
+      "name": "Shampoo Palmolive Anti Armado 350ml",
+      "image": "https://clinicapamelacyafo.lucasdutra.com/wp-content/uploads/2023/06/produto-0006.png",
+      "price": "39,99",
+      "price2":"50,07",
+      "link":"https://www.google.com/search?q=Shampoo+Palmolive+Anti+Armado+350ml&sxsrf=APwXEddXmzBfmsqQbjG2uz83WYAh31LHzw%3A1686513958424&ei=JimGZOXCGbiK5OUPoZC66AU&ved=0ahUKEwjl7ZmLgrz_AhU4BbkGHSGIDl0Q4dUDCA8&uact=5&oq=Shampoo+Palmolive+Anti+Armado+350ml&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQA0oECEEYAFAAWABg-AdoAHABeACAAbQBiAG0AZIBAzAuMZgBAKABAqABAcABAQ&sclient=gws-wiz-serp"
+    }
+  ]
